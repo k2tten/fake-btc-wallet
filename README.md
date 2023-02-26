@@ -12,3 +12,11 @@ Best program on GitHub for for faking bitcoin funds
     🟢poses as muun wallet to seem legit
     🟢gets data from json file
     🟢displays address balance from json file
+    🔴buttons are not functional
+    
+# How to Use
+    > run the command ` wallet -l -w <wallet #> `
+        > -l = login
+        > -w = wallet
+        
+    > and it will open gui using that wallet
